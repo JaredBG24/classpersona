@@ -32,6 +32,7 @@ El usuario podra ejecutar el programa mediante los siguientes pasos:
 **3. **Una vez abierto, recopilara el repositorio.
 **4.** Una vez realizado este proceso, el usuario ya podra ejecutar el programa. 
 
+![ejecucion](https://user-images.githubusercontent.com/85972823/126837774-f2b3d857-4d1c-40fa-9166-cd77cff56256.png)
 
 
 
